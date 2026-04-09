@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Yimeng 👋
+🎓 MSc Computer Science @ Arizona State University
+🧪 Analytical Chemist | MSc Computer Science | Software Development
 
-<!--
-**yimengl2006/yimengl2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me
+💼 LinkedIn: https://www.linkedin.com/in/yimeng-li-864aba120/
+💻 LeetCode: https://leetcode.com/u/mmltf2006/
+💻 Tech Stack
+Python, Java
+Django, Next.js
+SQL
+🚀 Projects
+Event API (Django backend)
+Lab Data Analysis Tool (in progress)
